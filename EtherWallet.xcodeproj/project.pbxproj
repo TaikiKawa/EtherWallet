@@ -14,7 +14,6 @@
 		F79C13142248BE2F0012FF84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F79C13122248BE2F0012FF84 /* LaunchScreen.storyboard */; };
 		F79C131F2248C1950012FF84 /* CryptoEthereumSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F79C131C2248C1950012FF84 /* CryptoEthereumSwift.framework */; };
 		F79C13202248C1950012FF84 /* EthereumKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F79C131D2248C1950012FF84 /* EthereumKit.framework */; };
-		F79C13212248C1950012FF84 /* CryptoSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F79C131E2248C1950012FF84 /* CryptoSwift.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +36,6 @@
 			files = (
 				F79C131F2248C1950012FF84 /* CryptoEthereumSwift.framework in Frameworks */,
 				F79C13202248C1950012FF84 /* EthereumKit.framework in Frameworks */,
-				F79C13212248C1950012FF84 /* CryptoSwift.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,9 +158,9 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/EthereumKit.framework ",
-				"$(SRCROOT)/Carthage/Build/iOS/CryptoEthereumSwift.framework ",
-				"$(SRCROOT)/Carthage/Build/iOS/CryptoSwift.framework ",
+				"$(SRCROOT)/Carthage/Build/iOS/EthereumKit.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CryptoEthereumSwift.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CryptoSwift.framework",
 			);
 			outputFileListPaths = (
 			);
