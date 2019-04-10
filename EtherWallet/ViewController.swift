@@ -73,7 +73,10 @@ class ViewController: UIViewController {
                 }
                 
                 // It returns the transaction ID.
-                geth.sendRawTransaction(rawTransaction: tx) { _ in }
+                geth.sendRawTransaction(rawTransaction: tx) {_ in
+                        
+                        print()
+                    }
                 
             case .failure(let error):
                 print("Error: \(error.localizedDescription)")
