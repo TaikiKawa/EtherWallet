@@ -3,3 +3,9 @@ Carthage/Carthage/Build/
 xcuserdata/
 DerivedData/
 .DS_Store
+
+Carthage/Build/
+Carthage/Checkouts/
+xcuserdata/
+DerivedData/
+.DS_Store
