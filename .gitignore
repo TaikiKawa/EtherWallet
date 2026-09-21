@@ -1,2 +1,5 @@
 # Carthage
-Carthage/
+Carthage/Carthage/Build/
+xcuserdata/
+DerivedData/
+.DS_Store
