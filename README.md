@@ -1,7 +1,7 @@
 # EtherWallet
 
-iOS向けEthereumウォレットの試作アプリです（Swift）。
 A prototype Ethereum wallet app for iOS, built with Swift.
+iOS向けEthereumウォレットの試作アプリです（Swift）。
 
 - ライブラリ: [EthereumKit](https://github.com/yuzushioh/EthereumKit)（Carthage）
 
